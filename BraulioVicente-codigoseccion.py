@@ -1,0 +1,11 @@
+nombre = input("Ingrese su nombre: ")
+apellido = input("Ingrese su apellido: ")
+seccion = input("Ingrese su sección: ")
+institucion = input("Ingrese su institución: ")
+
+print("\nInformación ingresada:")
+print("Nombre:", nombre)
+print("Apellido:", apellido)
+print("Sección:", seccion)
+print("Institución:", institucion)
+print("Evaluacion N1 programacion y Redes Virtualizadas ")
